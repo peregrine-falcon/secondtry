@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondtry/static/css/main.073c9b0a.css",
+    "main.js": "/secondtry/static/js/main.df3c4aff.js",
+    "static/js/787.e00c0557.chunk.js": "/secondtry/static/js/787.e00c0557.chunk.js",
+    "index.html": "/secondtry/index.html",
+    "main.073c9b0a.css.map": "/secondtry/static/css/main.073c9b0a.css.map",
+    "main.df3c4aff.js.map": "/secondtry/static/js/main.df3c4aff.js.map",
+    "787.e00c0557.chunk.js.map": "/secondtry/static/js/787.e00c0557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.df3c4aff.js"
+  ]
+}
